@@ -73,3 +73,5 @@ Segmentation fault
 
 ## TODO
 Make configurable via ENV/args
+
+![Alt](https://repobeats.axiom.co/api/embed/86d578abd451de4be84f3b72edc8e45ee82b5c8f.svg "Repobeats analytics image")
